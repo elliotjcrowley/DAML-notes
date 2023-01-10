@@ -7,7 +7,7 @@ I recommend running these on [Notable](https://noteable.edina.ac.uk/login) becau
 ## Instructions for cloning this repo to Notable
 
 1. Log into Notable from https://noteable.edina.ac.uk/login
-2. Start a Standard Notebook (Python 3) server
+2. Start a **Language and Machine Learning** server
 3. Click the +GitRepo button in the top right corner
 4. Enter the details below and click Clone.
     - Git Repository URL: https://git.ecdf.ed.ac.uk/DAML4/notes.git
