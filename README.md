@@ -10,8 +10,7 @@ I recommend running these on [Notable](https://noteable.edina.ac.uk/login) becau
 2. Start a **Language and Machine Learning** server
 3. Click the "New" button iin the top right corner, then click "Terminal". This will create a new tab with a terminal in it.
 4. In the terminal:
-    - Enter `export GIT_SSL_NO_VERIFY=1` (a non-ideal hack to get this working)
-    - Enter `git clone https://git.ecdf.ed.ac.uk/DAML4/notes.git`
+    - Enter `git -c http.sslverify=false clone https://git.ecdf.ed.ac.uk/DAML4/notes.git`
     - Then enter your UUN 
     - Then enter your password (when you type this, no symbols will show as a security measure).
 
