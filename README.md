@@ -8,7 +8,7 @@ I recommend running these on [Notable](https://noteable.edina.ac.uk/login) becau
 
 1. Log into Notable from https://noteable.edina.ac.uk/login
 2. Start a **Language and Machine Learning** server
-3. Click the "New" button iin the top right corner, then click "Terminal". This will create a new tab with a terminal in it.
+3. Click the "New" button in the top right corner, then click "Terminal". This will create a new tab with a terminal in it.
 4. In the terminal:
     - Enter `git -c http.sslverify=false clone https://git.ecdf.ed.ac.uk/DAML4/notes.git`
     - Then enter your UUN 
