@@ -15,6 +15,6 @@ I recommend running these on [Notable](https://noteable.edina.ac.uk/login) becau
     - Then enter your UUN 
     - Then enter your password (when you type this, no symbols will show as a security measure).
 
-This will create a directory called `notes.git` which contains the notebooks for each week.
+This will create a directory called `notes` which contains the notebooks for each week.
 
 #### Written by Elliot J. Crowley and &copy; The University of Edinburgh 2022-23
